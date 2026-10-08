@@ -1,0 +1,10 @@
+numpy==2.5.2
+scipy==1.18.1
+matplotlib==3.11.1
+pandas==2.3.3
+astropy==8.0.1
+astroquery==0.4.11
+photutils==3.0.0
+lightkurve==2.6.0
+
+-e ./scarlet-source

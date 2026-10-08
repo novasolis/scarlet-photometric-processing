@@ -1,0 +1,10 @@
+{
+  "errors": [],
+  "pipelines": [
+    "Baseline",
+    "SCARLET"
+  ],
+  "rows": 1800,
+  "targets": 3,
+  "valid": true
+}

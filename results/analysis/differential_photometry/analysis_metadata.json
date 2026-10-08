@@ -1,0 +1,40 @@
+{
+  "analysis": {
+    "baseline_pipeline": "Baseline",
+    "comparison_pipeline": "SCARLET",
+    "pairing_key": [
+      "target_name",
+      "pipeline",
+      "cadence_index"
+    ],
+    "primary_measurement_comparisons": [
+      "differential_flux",
+      "differential_magnitude"
+    ],
+    "primary_precision_metrics": [
+      "relative differential-flux scatter",
+      "differential-magnitude scatter"
+    ],
+    "temporal_stability_metric": "standard deviation of cadence-to-cadence differences in median-normalised differential flux"
+  },
+  "input_directory": "C:\\Users\\n2regmi\\Documents\\photometry\\results\\exports\\differential_photometry",
+  "input_files": {
+    "differential_measurements": "C:\\Users\\n2regmi\\Documents\\photometry\\results\\exports\\differential_photometry\\differential_timeseries_measurements.csv",
+    "target_timeseries": "C:\\Users\\n2regmi\\Documents\\photometry\\results\\exports\\timeseries_photometry\\timeseries_measurements.csv"
+  },
+  "input_rows": {
+    "differential_measurements": 1800,
+    "target_timeseries": 4200
+  },
+  "output_directory": "C:\\Users\\n2regmi\\Documents\\photometry\\results\\analysis\\differential_photometry",
+  "pipelines": [
+    "Baseline",
+    "SCARLET"
+  ],
+  "target_timeseries_directory": "C:\\Users\\n2regmi\\Documents\\photometry\\results\\exports\\timeseries_photometry",
+  "targets": [
+    "GJ 9827",
+    "HD 209458",
+    "TOI-2155"
+  ]
+}

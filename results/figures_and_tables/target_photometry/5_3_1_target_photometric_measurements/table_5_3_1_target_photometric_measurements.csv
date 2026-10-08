@@ -1,0 +1,15 @@
+Target,Survey,Flux change (%),Absolute flux change (%),Absolute magnitude change,Background change,Measurement quality
+SDSS M67 Source 118,SDSS,-5.7221,5.7221,0.06398,-1.256,Valid in both
+SDSS M67 Source 262,SDSS,-1.7057,1.7057,0.01868,-4.542,Valid in both
+SDSS M92 Source 2627,SDSS,1.1917,1.1917,0.01286,-0.082,Valid in both
+SDSS NGC 2158 Source 1317,SDSS,-0.0011,0.0011,1e-05,0.0,Valid in both
+SDSS NGC 2158 Source 2662,SDSS,0.7491,0.7491,0.0081,-0.246,Valid in both
+SDSS NGC 2420 Source 240,SDSS,0.1236,0.1236,0.00134,-0.513,Valid in both
+SDSS NGC 6791 Source 2029,SDSS,2.5482,2.5482,0.02732,-0.02,Valid in both
+GJ 9827,TESS,0.0047,0.0047,5e-05,-0.148,Valid in both
+HD 191939,TESS,0.0411,0.0411,0.00045,-2.083,Valid in both
+HD 209458,TESS,-0.0563,0.0563,0.00061,-0.954,Valid in both
+TOI-1820,TESS,-0.0,0.0,0.0,-0.0,Valid in both
+TOI-2155,TESS,-0.2784,0.2784,0.00303,-0.147,Valid in both
+WASP-12,TESS,-0.4,0.4,0.00435,-0.78,Valid in both
+WASP-33,TESS,0.0048,0.0048,5e-05,-0.53,Valid in both

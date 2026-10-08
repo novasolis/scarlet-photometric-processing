@@ -1,0 +1,3 @@
+Survey,Target count,Median neighbours within 10 px (n),Median nearest-neighbour distance (px),Median nearest-neighbour flux / target flux,Median local neighbour flux / target flux,Median baseline target net flux,Median baseline background fraction
+SDSS,7,1.0,9.343,0.4228,0.4555,790.887,0.0513
+TESS,7,1.0,8.914,0.0392,0.0389,31175.003,0.0146

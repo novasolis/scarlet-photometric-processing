@@ -1,0 +1,10 @@
+metric,value
+Target count,14.0
+Targets with finite flux change,14.0
+Targets with SCARLET higher flux,7.0
+Targets with SCARLET lower flux,7.0
+Median absolute flux change (%),0.20102878206234287
+Mean absolute flux change (%),0.9162110516944679
+Targets with finite magnitude change,14.0
+Median absolute magnitude change (mag),0.002184335584035857
+Mean absolute magnitude change (mag),0.010059554571616003

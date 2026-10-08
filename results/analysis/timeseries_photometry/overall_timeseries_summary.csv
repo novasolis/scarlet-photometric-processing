@@ -1,0 +1,2 @@
+survey,target_count,targets_with_lower_scatter,targets_with_higher_scatter,targets_unchanged,targets_with_available_primary_metric,median_scatter_change_percent,mean_scatter_change_percent,minimum_scatter_change_percent,maximum_scatter_change_percent
+TESS,7,4,3,0,7,-0.08778515131134983,2.4025273411828545,-1.9238828695035843,11.18464711061101

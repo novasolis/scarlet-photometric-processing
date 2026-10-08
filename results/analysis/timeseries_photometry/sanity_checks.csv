@@ -1,0 +1,10 @@
+check,status,observed,expected,detail
+expected_target_set,PASS,GJ 9827|HD 191939|HD 209458|TIC 410153583|TOI-2155|WASP-12|WASP-33,GJ 9827|HD 191939|HD 209458|TIC 410153583|TOI-2155|WASP-12|WASP-33,Production experiment target set matches the seven thesis TESS targets.
+expected_pipeline_set,PASS,Baseline|SCARLET,Baseline|SCARLET,Both paired production pipelines are present.
+experiment_count,PASS,14,14,Expected 7 targets × 2 pipelines.
+target_pipeline_pair_count,PASS,14,14,Exactly one target/pipeline inventory row is expected per experiment.
+target_cadence_completeness,PASS,14,14,Every target/pipeline must contain 300 valid target cadences indexed 0–299.
+target_scientific_fields_complete,PASS,complete,zero missing and zero non-finite values,Every valid target row must have complete finite values for fields used by scientific metrics.
+baseline_scarlet_pairing,PASS,2100,2100,Baseline and SCARLET target light curves must share the same cadence/time grid.
+negative_target_background_flux,FAIL,27,0,Valid target rows used for final metrics must not contain negative background flux.
+one_target_source_per_experiment,PASS,14,14,Each experiment must identify exactly one target source.

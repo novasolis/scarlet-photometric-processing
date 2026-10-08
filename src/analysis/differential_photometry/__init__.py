@@ -1,0 +1,1 @@
+"""Differential photometry analysis package for RQ4."""

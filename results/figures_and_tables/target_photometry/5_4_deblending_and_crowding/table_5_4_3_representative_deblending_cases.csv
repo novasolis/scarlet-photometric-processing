@@ -1,0 +1,4 @@
+Case,Target,Survey,Selection rationale,Neighbours within 10 px (n),Nearest-neighbour distance (px),Nearest-neighbour flux / target flux,Local neighbour flux / target flux,Absolute flux change (%),Absolute magnitude change (mag),Neighbour source IDs
+Case 1,SDSS M67 Source 118,SDSS,Strong local neighbour contribution + large SCARLET change,1,8.317,0.875,0.875,5.7221,0.06398,121
+Case 2,SDSS NGC 6791 Source 2029,SDSS,Strong local neighbour contribution + moderate SCARLET change,2,9.653,0.916,1.1859,2.5482,0.02732,1998;2034
+Case 3,GJ 9827,TESS,Weak local neighbour contribution + negligible SCARLET change,1,9.565,0.0092,0.0092,0.0047,5e-05,7

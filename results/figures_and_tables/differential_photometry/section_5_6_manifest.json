@@ -1,0 +1,23 @@
+{
+  "section": "5.6",
+  "research_question": "RQ4",
+  "analysis_output_directory": "C:\\Users\\n2regmi\\Documents\\photometry\\results\\analysis\\differential_photometry",
+  "thesis_output_directory": "C:\\Users\\n2regmi\\Documents\\photometry\\results\\figures_and_tables\\differential_photometry",
+  "artefacts": [
+    "table_5_6_1_differential_measurements.csv",
+    "table_5_6_2_differential_timeseries_stability.csv",
+    "figure_5_6_1_differential_light_curves.png",
+    "figure_5_6_2_differential_metric_changes.png",
+    "figure_5_6_3_differential_flux_correlation.png",
+    "section_5_6_results.txt"
+  ],
+  "figures": [
+    "figure_5_6_1_differential_light_curves.png",
+    "figure_5_6_2_differential_metric_changes.png",
+    "figure_5_6_3_differential_flux_correlation.png"
+  ],
+  "tables": [
+    "table_5_6_1_differential_measurements.csv",
+    "table_5_6_2_differential_timeseries_stability.csv"
+  ]
+}

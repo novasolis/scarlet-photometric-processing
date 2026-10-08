@@ -1,0 +1,8 @@
+Source population,Source count,Paired valid (n),Median flux change (%),Median absolute flux change (%),Median absolute magnitude change (mag),Median background change
+SDSS,210,207,0.0006,0.3821,0.003206,-0.0103
+SDSS Target,7,7,0.1236,1.1917,0.012862,-0.2461
+SDSS Neighbour,203,200,0.0002,0.2948,0.003049,-0.0095
+TESS,128,101,0.0047,0.2643,0.002866,-0.5299
+TESS Target,7,7,-0.0,0.0411,0.000446,-0.5299
+TESS Neighbour,121,94,0.007,0.2945,0.003193,-0.5364
+All sources,338,308,0.001,0.2878,0.003014,-0.0187

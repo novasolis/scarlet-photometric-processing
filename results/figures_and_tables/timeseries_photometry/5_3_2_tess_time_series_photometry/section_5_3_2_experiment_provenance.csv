@@ -1,0 +1,15 @@
+experiment_id,target_name,survey,experiment_type,pipeline,instrument,filter_name,dataset_identifier,target_source_identifier
+tess-baseline-9985cc8966866ad2,GJ 9827,TESS,Target photometry,Baseline,TESS Photometer,,TESS Sector 42,9
+tess-scarlet-d04749ab43b0886f,GJ 9827,TESS,Target photometry,SCARLET,TESS Photometer,,TESS Sector 42,9
+tess-baseline-094c6d9df343529e,HD 191939,TESS,Target photometry,Baseline,TESS Photometer,,TESS Sector 16,9
+tess-scarlet-5ba73dc4e8b04f3d,HD 191939,TESS,Target photometry,SCARLET,TESS Photometer,,TESS Sector 16,9
+tess-baseline-68a508c0857224f9,HD 209458,TESS,Target photometry,Baseline,TESS Photometer,,TESS Sector 56,12
+tess-scarlet-1ab1f0e2c3563e13,HD 209458,TESS,Target photometry,SCARLET,TESS Photometer,,TESS Sector 56,12
+tess-baseline-2b1b91c2e56ea6e8,TOI-1820,TESS,Target photometry,Baseline,TESS Photometer,,TESS Sector 22,6
+tess-scarlet-4abacbbf827722ef,TOI-1820,TESS,Target photometry,SCARLET,TESS Photometer,,TESS Sector 22,6
+tess-baseline-ea24b9a816f7b749,TOI-2155,TESS,Target photometry,Baseline,TESS Photometer,,TESS Sector 18,12
+tess-scarlet-3d403823d591305e,TOI-2155,TESS,Target photometry,SCARLET,TESS Photometer,,TESS Sector 18,12
+tess-baseline-18404d077923645c,WASP-12,TESS,Target photometry,Baseline,TESS Photometer,,TESS Sector 20,12
+tess-scarlet-99bac763fc4a3960,WASP-12,TESS,Target photometry,SCARLET,TESS Photometer,,TESS Sector 20,12
+tess-baseline-42f61d0109655e78,WASP-33,TESS,Target photometry,Baseline,TESS Photometer,,TESS Sector 18,9
+tess-scarlet-1d2db9350d268df0,WASP-33,TESS,Target photometry,SCARLET,TESS Photometer,,TESS Sector 18,9

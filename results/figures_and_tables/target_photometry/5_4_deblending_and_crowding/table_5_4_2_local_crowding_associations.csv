@@ -1,0 +1,4 @@
+Group,Predictor,Outcome,n,Spearman rho,p-value
+All targets,Local neighbour flux / target flux,Absolute flux change (%),14,0.8141,0.0004
+SDSS targets,Local neighbour flux / target flux,Absolute flux change (%),7,0.8571,0.0137
+TESS targets,Local neighbour flux / target flux,Absolute flux change (%),7,0.9643,0.0005

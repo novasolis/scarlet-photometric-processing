@@ -1,0 +1,26 @@
+{
+  "analysis": {
+    "normalisation": "independent median normalisation per pipeline and target",
+    "pairing_key": [
+      "target_name",
+      "cadence_index",
+      "source_identifier"
+    ],
+    "primary_scatter_metric": "standard deviation of median-normalised target flux",
+    "temporal_stability_metric": "standard deviation of cadence-to-cadence differences"
+  },
+  "input_directory": "C:\\Users\\n2regmi\\Documents\\photometry\\results\\exports\\timeseries_photometry",
+  "input_rows": {
+    "experiment_summary": 14,
+    "paired_timeseries": 2100,
+    "source_measurements": 256,
+    "target_timeseries": 4200,
+    "timeseries_measurements": 67200
+  },
+  "output_directory": "C:\\Users\\n2regmi\\Documents\\photometry\\results\\analysis\\timeseries_photometry",
+  "validation": {
+    "errors": 0,
+    "status": "PASS",
+    "warnings": 0
+  }
+}
